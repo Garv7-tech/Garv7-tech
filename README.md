@@ -17,8 +17,7 @@
 
 
 ## 🪔Philosophy
-> **"Lagi padi hai par lage pade hai"**
-> ~ *Hitesh Choudhary*
+> **"A mind that is fresh, clear and swift ⚡"**
 
 
 ## 🛠️ Tech Stack
