@@ -36,8 +36,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garv7-tech&layout=compact&theme=panda&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79FF97)](https://github.com/Garv7-tech)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Garv7-tech&theme=panda&hide_border=true&background=0D1117&stroke=58A6FF&ring=79FF97&fire=79FF97&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=79FF97&sideLabels=58A6FF&dates=8B949E)](https://github.com/Garv7-tech)
-
 
 ## 🌟 Featured Projects
 
